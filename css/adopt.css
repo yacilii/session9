@@ -1,0 +1,22 @@
+div{
+    background-color: beige;
+}
+
+
+h1{
+    text-decoration: none;
+    background-color: aquamarine;
+    border-radius: 70%;
+    width:fit-content ;
+    font-size:40px;
+   margin:auto;
+    color:rgb(33, 15, 50);
+}
+a{
+    color: darkmagenta;
+    font-size: 25px;
+}
+h2{
+    color: deeppink;
+}
+
